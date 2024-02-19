@@ -1,5 +1,5 @@
 import message from "../user.js";
-const endPointRoot = "http://comp-4537-lab04-nine.vercel.app/api/";
+const endPointRoot = "https://comp4537-lab04-server.vercel.app/";
 // const endPointRoot = "http://localhost:8000/";
 class Store {
     createWord(word, definition) {

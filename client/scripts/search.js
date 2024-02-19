@@ -1,4 +1,4 @@
-const endPointRoot = "https://comp4537-lab04-server.vercel.app/";
+const endPointRoot = "https://comp4537-lab04-server.vercel.app/api/server.js/";
 // const endPointRoot = "http://localhost:8000/";
 class Search {
     getResults(query) {
